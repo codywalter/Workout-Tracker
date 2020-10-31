@@ -1,3 +1,3 @@
 module.exports = {
-  Workout: require("..../models/this.workout.js"),
+  Workout: require("..../models/workout.js"),
 };
