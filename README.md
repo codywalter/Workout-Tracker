@@ -42,8 +42,8 @@ None
 
 ![Profile Image](https://github.com/codywalter.png?size=50)
 
-## View the project repository in GitHub at:
+## View the project repository in GitHub at: https://github.com/codywalter/Workout-Tracker
 
-## View deployed site at:
+## View deployed site at: https://ghoulish-skeleton-73850.herokuapp.com/
 
 ### If you have any questions, contact the author directly at: cody.walter@providencecc.edu
